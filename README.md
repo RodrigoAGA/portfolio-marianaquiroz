@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# portfolio-marianaquiroz
-=======
 <h2 align="center">
   <p>Personal website built with Astro</p>
   <a href="https://www.kuktenko.dev/" target="_blank">www.kuktenko.dev</a>
@@ -39,4 +36,3 @@ in /libs folder just run:
 `git clone git@github.com:PavelLaptev/context-cursor.git` 
 
 And should work perfect for you!
->>>>>>> origin/kandy-base
