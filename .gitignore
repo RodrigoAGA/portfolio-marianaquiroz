@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+
+# node (si luego usas herramientas)
+node_modules
+dist
+build
